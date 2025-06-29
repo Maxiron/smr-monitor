@@ -1,0 +1,7 @@
+.venv
+*.pyc
+__pycache__
+*.pkl
+*.db
+config.bat
+node_modules
